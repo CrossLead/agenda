@@ -28,7 +28,7 @@
     "url": "https://github.com/rschmukler/agenda/issues"
   },
   "dependencies": {
-    "cron": "ssh://github.com/CrossLead/cron.git#32cc9230301501896a185d52e3f386d87f8989cf",
+    "cron": "ssh://github.com/CrossLead/node-cron.git#32cc9230301501896a185d52e3f386d87f8989cf",
     "date.js": "~0.3.1",
     "human-interval": "~0.1.3",
     "moment-timezone": "0.5.3",
